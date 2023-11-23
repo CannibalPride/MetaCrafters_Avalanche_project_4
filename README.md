@@ -1,4 +1,4 @@
-# Project Title
+# Degen Token (ERC-20): Unlocking the Future of Gaming
 
 DegenToken Smart Contract
 
