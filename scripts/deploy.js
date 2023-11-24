@@ -1,6 +1,9 @@
 const hre = require("hardhat");
 
 async function main() {
+  const network = hre.network.name;
+  console.log("Using local Hardhat network");
+
   // Get the Points smart contract
   const Degen = await hre.ethers.getContractFactory("DegenToken");
 
